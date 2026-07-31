@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd year B.Tech student at JIIT
+- 🎓 4rd year B.Tech student at JIIT
 - 🔎 Passionate about **Data Science** & **Web Development**
 - 📊 Interests: Data Analysis, Machine Learning, Full-Stack Development, and Visualizations
 - 💡 Always eager to collaborate on exciting projects and contribute to open-source
