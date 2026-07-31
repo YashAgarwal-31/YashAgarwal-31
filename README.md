@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Yash 👋</h1>
-<h3 align="center">B.Tech 4rd Year | JIIT | Data Science & Web Development Enthusiast</h3>
+<h3 align="center">B.Tech 4th Year | JIIT | Data Science & Web Development Enthusiast</h3>
 
 ---
 
