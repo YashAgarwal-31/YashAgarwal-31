@@ -60,29 +60,13 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 ## ⭐ Featured Projects
 
 ### 🤖 InterviewBuddy
-
 AI-powered mock interview platform that generates personalized interview questions and provides intelligent feedback.
 
 ### 🏥 JeevanSetu
-
 A modern healthcare platform built with Next.js, TypeScript, and responsive UI principles.
 
 ### 🗺️ RouteMatrix
-
 AI-powered travel planner that creates personalized itineraries using the Gemini API.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -96,10 +80,6 @@ AI-powered travel planner that creates personalized itineraries using the Gemini
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
