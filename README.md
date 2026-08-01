@@ -23,8 +23,8 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 
 - 🎓 Final Year B.Tech student at **Jaypee Institute of Information Technology (JIIT), Noida**
 - 💼 Former **SDE Intern @ Stratbeans Consulting**
-- 💻 Passionate about **Software Development, Full-Stack Development, and Artificial Intelligence**
-- 🌱 Currently learning **Backend Engineering, System Design, and Generative AI**
+- 💻 Passionate about **Software Development, Full-Stack Development & Artificial Intelligence**
+- 🌱 Currently learning **Backend Engineering, System Design & Generative AI**
 - 🤝 Open to collaborating on innovative software projects and open-source contributions
 - ⚡ I enjoy building products that solve real-world problems.
 
@@ -93,13 +93,13 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!+🚀;Happy+Coding!+💻"/>
+</p>
+
+<p align="center">
+<b><i>"Building software that creates impact, one commit at a time."</i></b>
 </p>
 
 <p align="center">
 ✨ <b>Code. Learn. Build. Repeat.</b> ✨
-<br><br>
-Thanks for visiting my profile! ⭐
-<br>
-Always open to learning, collaborating, and building impactful software.
 </p>
