@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./Github Cover Photo.jfif" width="100%" alt="GitHub Cover Photo"/>
 </p>
@@ -60,25 +61,26 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 AI-powered mock interview platform that generates personalized interview questions and provides intelligent feedback.
 
 ### 🏥 JeevanSetu
-A modern healthcare platform built with Next.js, TypeScript, and responsive UI principles.
+A modern healthcare platform built with **Next.js**, **TypeScript**, and responsive UI principles.
 
 ### 🗺️ RouteMatrix
-AI-powered travel planner that creates personalized itineraries using the Gemini API.
+AI-powered travel planner that creates personalized itineraries using the **Google Gemini API**.
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Currently Exploring
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+- 🤖 AI-powered Applications & LLMs
+- ⚙️ Backend Development using Node.js & Express
+- 🏗️ System Design & Scalable Architectures
+- ☁️ Modern Full-Stack Development with Next.js
 
 ---
 
-## 💭 Developer Quote
+## 💭 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
 </p>
 
 ---
