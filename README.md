@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="./Github Cover Photo.jfif" width="100%" alt="GitHub Cover Photo"/>
 </p>
