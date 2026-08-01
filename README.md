@@ -1,81 +1,51 @@
-
-<!-- Banner -->
+<!-- Banner background image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Yash%20Agarwal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech/Data Science Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
-
-<h3 align="center">
-Final Year B.Tech Student • Software Developer • AI Enthusiast
-</h3>
-
-<p align="center">
-Building scalable web applications, AI-powered solutions, and solving real-world problems through code.
-</p>
+<h1 align="center">Hi, I'm Yash 👋</h1>
+<h3 align="center">B.Tech 4th Year | JIIT | Data Science & Web Development Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech student at **JIIT Noida**
-- 💼 Former **SDE Intern @ Stratbeans Consulting**
-- 💻 Interested in **Software Development, Full-Stack Development, AI & Machine Learning**
-- 🌱 Currently exploring **System Design, Backend Engineering, and GenAI**
-- 🧩 Solved **250+ DSA problems**
-- ⚡ I enjoy building products that solve real-world problems.
+- 🎓 4th year B.Tech student at JIIT
+- 🔎 Passionate about **Data Science** & **Web Development**
+- 📊 Interests: Data Analysis, Machine Learning, Full-Stack Development, and Visualizations
+- 💡 Always eager to collaborate on exciting projects and contribute to open-source
+- 🚀 Continuously learning new technologies
 
----
+### 💬 Fun Fact
 
-## 🛠 Tech Stack
+> I treat every dataset like a mystery waiting to be solved.
 
-### Languages
+### 🧠 Personal Mottos
+
+- "Keep building. Keep learning."
+- "Code with purpose, learn with passion."
+
+### 🛠️ Skills
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## ⭐ Featured Projects
+### 📫 Let's connect!
 
-- 🤖 **InterviewBuddy** — AI-powered mock interview platform
-- 🏥 **JeevanSetu** — Healthcare platform built with Next.js
-- 📄 **BuildMyResume** — Resume builder with modern UI
-- 🧭 **RouteMatrix** — AI travel planner powered by Gemini API
-
----
-
-## 📈 GitHub Stats
+- [LinkedIn](https://www.linkedin.com/in/yashagarwal-31/)
+- [Email](mailto:your-email@example.com) <!-- Replace with your actual email if you want -->
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Keep+building.+Keep+learning.;Code+with+purpose%2C+learn+with+passion." alt="Typing SVG" />
 </p>
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/yash-agarwal9124
-- 📧 Email: your-email@example.com
-- 💻 LeetCode: your-profile
-```
+otmise this
