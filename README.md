@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="GitHub Banner"/>
+  <img src="./Github Cover Photo.jfif" width="100%" alt="GitHub Cover Photo"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
