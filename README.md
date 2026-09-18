@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
 
 <h3 align="center">
-Software Developer • AI Enthusiast • Final Year B.Tech @ JIIT Noida
+Software Developer • AI/ML & Full-Stack Engineer • B.Tech ECE @ JIIT Noida
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered solutions, and solving real-world problems through code.
+Building reliable web applications and AI-powered solutions, with a focus on clean engineering, security, and measurable problem-solving.
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 - 🎓 Final Year B.Tech student at **Jaypee Institute of Information Technology (JIIT), Noida**
 - 💼 Former **SDE Intern @ Stratbeans Consulting**
 - 💻 Passionate about **Software Development, Full-Stack Development, and Artificial Intelligence**
+- 🧩 Solved **250+ DSA problems** across LeetCode and GeeksforGeeks
 - 🌱 Currently learning **Backend Engineering, System Design, and Generative AI**
 - 🤝 Open to collaborating on innovative software projects and open-source contributions
 - ⚡ I enjoy building products that solve real-world problems.
@@ -38,7 +39,7 @@ Full-stack recruiting and technical-interview platform with adaptive AI intervie
 **Tech Stack:** React, Node.js, Express.js, MongoDB, OpenAI API, TensorFlow.js
 
 ### 🏥 [JeevanSetu – Unified Healthcare Platform](https://github.com/YashAgarwal-31/JeevanSetu-Unified-Healthcare-Platform)
-Responsive hospital-management platform featuring patient and doctor management, appointments, emergency operations, bed tracking, workflow boards, analytics, and notifications.
+Responsive healthcare dashboard prototype featuring patient and doctor management, appointments, emergency operations, bed tracking, workflow boards, analytics, and notifications.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Zustand, Recharts, shadcn/ui
 
@@ -48,7 +49,7 @@ AI-powered travel-planning system that generates structured, budget-aware itiner
 **Tech Stack:** Python, Streamlit, Gemini API, Pydantic, SQLite, Pandas
 
 ### 🩺 [SwasthAI Health](https://github.com/YashAgarwal-31/SwasthAI-Health)
-Personal-health companion combining report-grounded RAG, structured Gemini responses, trained disease-risk models, SHAP explainability, symptom triage, and interactive analytics.
+Educational wellness companion combining report-grounded RAG, structured Gemini responses, trained screening models, SHAP explainability, symptom triage, and interactive analytics.
 
 **Tech Stack:** Python, Streamlit, Gemini API, Scikit-learn, SHAP, SQLite, Plotly
 
